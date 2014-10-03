@@ -4,3 +4,4 @@ La diferencia entre compilación es que los programas compilados traducen todas 
 
 Y los interpretados traducen intrucciones una por una, es por eso que son más lentos que los compilados. Y no crean archivos .exe, crean una ejecución inmediata.
 
+La diferencia entre los dos archivos es que en el .sh encontramos una primera linea llamada shebang esta linea le dice al parent shell que interprete debería utilizar para ejecutar el script.
